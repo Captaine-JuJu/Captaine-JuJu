@@ -26,8 +26,8 @@ Futur développeur, je suis curieux des nouvelles technologies et de nouvelles c
 
 ### 📊 Activité et Statistiques
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Captaine-JuJu&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Captaine-JuJu&show_icons=true&theme=dark&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 ---
