@@ -21,7 +21,7 @@ Futur développeur, je suis curieux des nouvelles technologies et de nouvelles c
 
 **📊 Analyse de Données**
 
-* ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) (Statistiques & Visualisation)
+* ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) 
 
 **⚙️ Méthodologies & Outils**
 
