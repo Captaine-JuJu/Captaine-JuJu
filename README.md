@@ -30,4 +30,4 @@ Futur développeur, je suis curieux
 ---
 
 ### 🔗 Me contacter
-* **LinkedIn** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-jubault-jean-7703b93a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-jubault-jean-7703b93a3)
