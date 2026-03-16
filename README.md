@@ -1,10 +1,9 @@
-# [Ton Nom / Prénom]
 **Étudiant en BUT Informatique (2ème année)** *Spécialisation : Développement Logiciel & Solutions Full Stack*
 
 ---
 
 ### À propos
-Futur développeur logiciel, je m’attache à produire un code propre, documenté et performant. Mon cursus en BUT m'a permis d'acquérir une polyvalence technique allant de la gestion de base de données au développement d'applications mobiles et web.
+Futur développeur, je suis curieux 
 
 ### 🛠 Compétences Techniques
 
@@ -31,5 +30,4 @@ Futur développeur logiciel, je m’attache à produire un code propre, document
 ---
 
 ### 🔗 Me contacter
-* **LinkedIn** : [linkedin.com/in/votre-nom](https://linkedin.com/in/votre-nom)
-* **Portfolio** : [votre-portfolio.fr](https://votre-portfolio.fr)
+* **LinkedIn** : (https://linkedin.com/in/julian-jubault-jean-7703b93a3)
